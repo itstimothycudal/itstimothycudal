@@ -7,4 +7,4 @@
 - Web Developer
 - Html, Css and Js
 - Video Editing
--Social Media Manager
+- Social Media Manager
