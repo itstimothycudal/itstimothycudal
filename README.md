@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @itstimothycudal
+- Email: ronntimothy@gmail.com
 - Skills:
 
 - Graphic Designer
